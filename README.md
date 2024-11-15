@@ -106,7 +106,7 @@ Testing Data Set: $46,551,724 (estimated)
 How to Use
 Clone the repository:
 text
-git clone https://github.com/sameeragarwal123/churn-prediction.git
+git clone https://github.com/sameeragarwal123/Churn-Rate-Prediction.git
 
 
 Future Work
