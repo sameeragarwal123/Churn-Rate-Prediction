@@ -2,8 +2,6 @@ Project Overview
 
 This project develops a neural network model to predict customer churn for a mobile service provider. Using a dataset of 1 million customer records, we aim to identify customers at risk of churning, enabling targeted retention strategies.
 
-Dataset
-Size: 1 million customer records
 
 Features: Behavioral, demographic, and service usage metrics
 1. AcctLength: Measures the duration of a customer’s relationship with the company. Shorter tenures may indicate higher churn risk, as newer customers are less likely to be loyal.
